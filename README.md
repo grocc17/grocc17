@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grocc17
+- 👋 Hi, I’m Garett Roccaforte
 - 👀 I’m interested in Cybersecurity and Ethical Hacking 
 - 🌱 I’m currently learning CompTIA A+ and Security A+
 - 📫 How to reach me @garettrocc05@gmail.com
